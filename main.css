@@ -1,0 +1,41 @@
+/*Made by enno*/
+
+body , #page {
+    font-family: 'Lato';
+    background-color: #595959;
+    text-align: center;
+    height: 470px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -230px 0 0 -175px;
+}
+
+.pos {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.Social {
+    text-align: center;
+    margin: auto;
+}
+
+i {
+    color: black;
+}
+
+.imgcenter { 
+    display: imgcenter; 
+    justify-content: center; 
+    align-items: center;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #595959;
+    color: white;
+    display: block;
+
+}
